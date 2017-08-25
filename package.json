@@ -103,8 +103,8 @@
     "friendly-errors-webpack-plugin": "^1.6.1",
     "less": "^2.7.2",
     "less-loader": "^4.0.5",
-    "postcss-pxtorem": "^4.0.1",
+    "postcss-pxtorem": "^3.3.1",
     "progress-bar-webpack-plugin": "^1.10.0",
-    "svg-sprite-loader": "^3.2.4"
+    "svg-sprite-loader": "^0.3.1"
   }
 }
